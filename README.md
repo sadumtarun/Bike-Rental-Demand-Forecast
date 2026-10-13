@@ -7,7 +7,7 @@
 
 This project aims to develop a machine learning model to predict bike rental demand in urban areas. By analyzing historical data. This information will be crucial for bike-sharing companies to optimize their operations, improve customer satisfaction, and achieve sustainable growth. The project will involve data exploration, feature engineering, model selection, and model evaluation using appropriate metrics. The final model will be deployed using streamlit for easy accessibility and real-time predictions.
 
-## Project Structure
+## 📂 Project Structure
 ```
 📂 BSRU
 ┣ 📜 Dataset File   
@@ -15,7 +15,7 @@ This project aims to develop a machine learning model to predict bike rental dem
 ┣ 📜 Streamlit Code File  
 ```
 
-## Features
+## 🗒️ Features
 - Data Collection
 - Data Preprocessing
 - Exploratory Data Analysis
@@ -25,14 +25,14 @@ This project aims to develop a machine learning model to predict bike rental dem
 - Model Deployment
 - Results & Insights
 
-## Technologies Used
+## 💡Technologies Used
 - **Programming Language** - Python
 - **Libraries & Frameworks** - Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn
 - **Storage** - CSV / Excel
 - **Model Deployment** - Streamlit
 - **Collaboration** - Jupyter Notebook
 
-## Dataset
+## 🗄️Dataset
 1. Source of the Dataset
 - **Public Datasets** - Kaggle
 2. Dataset Description
@@ -41,7 +41,7 @@ This project aims to develop a machine learning model to predict bike rental dem
 - Date, Season, Year, Month, Hour, Holiday, Weekday, WorkingDay, Weather_Condition,
 Tempature, aTempature, Humidity, WindSpeed, Casual, Registered, TotalCount
 
-## Results & Visualizations
+## 🎯 Results & Visualizations
 ![image](https://github.com/user-attachments/assets/dec51a7f-1095-48bd-b22a-48de3f19eb70)
 January (Low Sales)
 - Cold Weather – If February had lower temperatures or harsher weather, people might have avoided biking.
