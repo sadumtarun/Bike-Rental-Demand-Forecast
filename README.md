@@ -1,4 +1,8 @@
 
+<img width="1746" height="866" alt="65" src="https://github.com/user-attachments/assets/8c7345c1-2eb6-49ff-b0fc-ed8fbfd0ac1d" />
+
+
+
 # Bike Rental Demand Forecasting
 
 This project aims to develop a machine learning model to predict bike rental demand in urban areas. By analyzing historical data. This information will be crucial for bike-sharing companies to optimize their operations, improve customer satisfaction, and achieve sustainable growth. The project will involve data exploration, feature engineering, model selection, and model evaluation using appropriate metrics. The final model will be deployed using streamlit for easy accessibility and real-time predictions.
